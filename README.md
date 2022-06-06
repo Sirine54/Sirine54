@@ -1,8 +1,5 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
 
-## Hello,I'm Sirine 
+## Hello,I'm <a href="" style="color:red"><h1>Sirine</h1></a>
 <hr/>
 <iframe src="https://giphy.com/embed/cpAGF6uxLw93uuQNNJ" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ambevtech-coding-developer-ambev-cpAGF6uxLw93uuQNNJ">via GIPHY</a></p>
 
