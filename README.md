@@ -7,9 +7,10 @@
 
 ### About me:
 
-<h5>Software engineer intersted in FrontEnd Development and creating websites seeking for challenges and opportunities to add new skills and learning more <br>
-Responsible, hard working, mature.
-Created projects that helped me to adopt to the changes.</h5>
+<h5>Junior front-end developer with a software engineering background,
+I am driven to succeed and always stay levelheaded in a crisis.
+I created projects during my studies that make me able to adapt my priorities and easy to work with.
+I am seeking new challenges that can improve my skills and build my personality.</h5>
 
 <hr />
 
