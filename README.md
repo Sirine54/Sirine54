@@ -17,8 +17,23 @@ I am seeking new challenges that can improve my skills and build my personality.
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500" /></a>
+
+<a href="https://en.reactjs.org/" target="_blank"><img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></a>
+
+
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" /></a>
+
+
+<a href="https://sass-lang.com/" target="_blank"><img align="left" alt="Sass" width="26px" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png" /></a>
+
+<a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="26px" src="https://grafikart.fr/uploads/icons/jquery.png" /></a>
+
+
+
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="26px" src="https://brandslogos.com/wp-content/uploads/images/php-logo-vector.svg" /></a>
 <!-- <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a> -->
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="JAVA" width="26px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"/> </a>
@@ -36,6 +51,10 @@ I am seeking new challenges that can improve my skills and build my personality.
 ### Softwares:
 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+
+
+<a href="https://www.sublimetext.com/" target="_blank"><img align="left" alt="Sublime text" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" /></a>
+
 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
 
