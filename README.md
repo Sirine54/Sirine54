@@ -7,10 +7,7 @@
 
 ### About me:
 
-<h5>Junior front-end developer with a software engineering background,
-I am driven to succeed and always stay levelheaded in a crisis.
-I created projects during my studies that make me able to adapt my priorities and easy to work with.
-I am seeking new challenges that can improve my skills and build my personality.</h5>
+<h5>Super passionate front-end developer with a software engineering background, Seeking new challenges that can improve my skills. In the last seven months of experience, I got the chance to create projects during front-end Bootcamp that allowed me to adapt my priorities and efficiently work within teams. Always Consistently striving to be driven to succeed and stay levelheaded in a crisis.</h5>
 
 <hr />
 
